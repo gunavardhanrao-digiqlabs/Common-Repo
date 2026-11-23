@@ -1,4 +1,8 @@
 This is a practice file for GitHub.
 Digiq labs Product:
 Team mates : Sushma, Guna and karthik
+<<<<<<< HEAD
 Updated by Guna vardhan 
+=======
+My full name is bathula sushma
+>>>>>>> 71a0bd121b9ab8b1b3f5762a9acfefe3887b04fa
